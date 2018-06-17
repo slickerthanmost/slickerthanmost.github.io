@@ -1,0 +1,17 @@
+nav ul li { 
+    display:inline-block;
+    margin:20px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+header {
+    color:white;
+    background-color:brown;
+    text-align:center;
+}
